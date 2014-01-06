@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4820
+
+Iceberg is a dark color scheme for Vim.
+It brings a cool-headed perspective for your happy coding :)
+
+Features:
+- Eye-friendly dark coloration, designed for GUI version
+- Also support 256-colors terminal
+
+Official site: http://cocopon.me/app/vim-iceberg/
+GitHub repository: https://github.com/cocopon/iceberg.vim
